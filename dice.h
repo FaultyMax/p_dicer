@@ -1,4 +1,4 @@
-// DICE HEARDER FILE
+// DICE HEADER FILE
 
 #ifndef DICE_H
 #define DICE_H
